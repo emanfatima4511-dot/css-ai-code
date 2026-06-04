@@ -50,3 +50,6 @@ This project was created to practice:
 * Responsive layout building
 * HTML & CSS structuring
 
+## Loom vedio link:
+https://www.loom.com/share/572931d47d064b5ea0fe6cf3e9d9fd31 
+
